@@ -1,5 +1,5 @@
 # Stats_Project
-### This project aims to analyze NYC Taxi Trip Record using Statistics on Python and using different libraries like Pandas, Matplotlib, Seabon, Statmodels.
+### This project aims to analyze NYC Taxi Trip Record using Statistics on Python and using different libraries like Pandas, Matplotlib, Seaborn, and Statmodels.
 
 
 <br/>
